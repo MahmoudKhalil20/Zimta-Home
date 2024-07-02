@@ -1,0 +1,1 @@
+ C:\\batata\\.dart_tool\\flutter_build\\14cca495e2e047ff904149bd2c9c0ab6\\native_assets.yaml: 
